@@ -1,0 +1,16 @@
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.exe
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.deps.json
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.runtimeconfig.json
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.runtimeconfig.dev.json
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.dll
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\ref\linq-challenge.dll
+D:\Workspace\server-side\orientation\linq\linq-challenge\bin\Debug\net5.0\linq-challenge.pdb
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.csproj.AssemblyReference.cache
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.AssemblyInfoInputs.cache
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.AssemblyInfo.cs
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.csproj.CoreCompileInputs.cache
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.dll
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\ref\linq-challenge.dll
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.pdb
+D:\Workspace\server-side\orientation\linq\linq-challenge\obj\Debug\net5.0\linq-challenge.genruntimeconfig.cache

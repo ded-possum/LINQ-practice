@@ -1,0 +1,16 @@
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.exe
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.deps.json
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.dll
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\ref\linq.dll
+D:\Workspace\server-side\orientation\linq\bin\Debug\net5.0\linq.pdb
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.dll
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\ref\linq.dll
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.pdb
+D:\Workspace\server-side\orientation\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache
